@@ -1,0 +1,13 @@
+{
+  "name": "bits2bytes",
+  "title": "Bits2Bytes",
+  "main": "./lib/main.js",
+  "id": "jid1-O1iNqbs7ikwqvA",
+  "description": "With Bits2Bytes you can convert various units from bits to petabytes and vice versa to each other.",
+  "author": "Mostafa",
+  "homepage": "https://addons.mozilla.org/en-US/firefox/addon/bits2bytes/?src=api",
+  "icon64 ": "./data/icon-64.png",
+  "icon": "./data/icon.png",
+  "license": "GPL 2.0",
+  "version": "1.0"
+}
