@@ -1,0 +1,6 @@
+﻿#Some files
+bits2bytes.xpi
+#Notepad++ Sessions
+*.npps
+#other
+*.txt
