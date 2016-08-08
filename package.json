@@ -1,13 +1,29 @@
 {
   "name": "bits2bytes",
   "title": "Bits2Bytes",
-  "main": "./lib/main.js",
-  "id": "jid1-O1iNqbs7ikwqvA",
-  "description": "With Bits2Bytes you can convert various units from bits to petabytes and vice versa to each other.",
-  "author": "Mostafa",
+  "main": "index.js",
+  "id": "jid1-O1iNqbs7ikwqvA@jetpack",
+  "icon":"resource://jid1-O1iNqbs7ikwqvA-at-jetpack/data/icon.png",
+  "description": "With Bits2Bytes you can convert various computer data units to each other.",
+  "author": "Mostafa Ziasistani",
+  "engines": {
+    "firefox": ">=38.0a1"
+  },
+  "icons":{
+  "16":"./data/icon-16.png",
+  "32":"./data/icon-32.png",
+  "64":"./data/icon-64.png",
+  "128":"./data/icon-128.png",
+  "256":"./data/icon-256.png",
+  "512":"./data/icon-512.png"
+  },
+  "permissions": {
+    "multiprocess": true
+  },
   "homepage": "https://addons.mozilla.org/en-US/firefox/addon/bits2bytes/?src=api",
-  "icon64 ": "./data/icon-64.png",
-  "icon": "./data/icon.png",
-  "license": "GPL 2.0",
-  "version": "1.0"
+  "license": "MIT",
+  "version": "1.1.0",
+  "keywords": [
+    "jetpack,bits2bytes,convert,convertion,bit,byte,kilobit,kilobyte,megabit,megabyte,gigabit,gigabyte,terabit,terabyte,petabit,petabyte"
+  ]
 }
