@@ -1,3 +1,9 @@
+/**
+*  Main file
+*  @version 1.1.0
+*  @author Mostafa Ziasistani
+*  @license MIT
+**/
 var { ToggleButton } = require('sdk/ui/button/toggle');
 var panels = require("sdk/panel");
 var self = require("sdk/self");

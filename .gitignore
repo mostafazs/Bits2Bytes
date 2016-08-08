@@ -1,6 +1,16 @@
 ﻿#Some files
 bits2bytes.xpi
+*.xpi
+*.zip
+
 #Notepad++ Sessions
 *.npps
 #other
 *.txt
+
+#eclips files
+.project
+/.settings
+
+#jpm things
+.jpmignore
